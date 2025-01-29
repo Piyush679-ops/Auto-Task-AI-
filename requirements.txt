@@ -1,7 +1,9 @@
-streamlit 
+transformers==4.x.x
+torch==1.x.x
 pandas
+streamlit
 matplotlib
-transformers
+
 
 
 
