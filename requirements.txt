@@ -1,9 +1,5 @@
-transformers==4.x.x
-torch==1.x.x
-pandas
-streamlit
-matplotlib
-
-
-
-
+streamlit==1.13.0
+transformers==4.26.0
+torch==1.13.1
+pandas==1.5.2
+matplotlib==3.6.2
